@@ -8,7 +8,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "Migrate to Hugo from Jekyll"
-type = "blog"
+type = "post"
 
 +++
 
