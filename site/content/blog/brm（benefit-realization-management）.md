@@ -12,11 +12,11 @@ description: ' '
 
 # 定義
 
-プロジェクトにおけるBRM（Benefit Realization Management）は様々なステークホルダーにビジネスで
+PMIによると、プロジェクトにおけるBRM（Benefit Realization Management）は様々なステークホルダーにビジネスで
 
 * どんな価値を提供するか
 * どう実行するか
-* どう維持するか　を定めた枠組みです。
+* どう維持するか　を定めた枠組みです。（The Boston Consulting Group）
 
 
 
@@ -30,3 +30,9 @@ description: ' '
 成果を求められる可能性があります。
 
 まずは、プロジェクトの立ち上げ時に、そのシステムを希望する理由（Why）を顧客に確認しましょう。どのようなビジネス上の課題がもとであなたに相談しているのか、背景を確認しましょう。
+
+
+
+# 出典
+
+PMI、2016、Benefits Realization Management Framework、<<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf?v=66856a2e-dc59-4bdd-830a-c95aad7e624c>>、（最終アクセス2019年11月29日）
