@@ -29,8 +29,6 @@ PMIによると、プロジェクトにおけるBRM（Benefit Realization Manage
 
 まずは、プロジェクトの立ち上げ時に、そのシステムを希望する理由（Why）を顧客に確認しましょう。どのようなビジネス上の課題がもとであなたに相談しているのか、背景を確認しましょう。
 
-
-
 # 出典
 
 PMI、2016、Benefits Realization Management Framework、<<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf?v=66856a2e-dc59-4bdd-830a-c95aad7e624c>>、（最終アクセス2019年11月29日）
