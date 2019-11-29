@@ -16,7 +16,7 @@ PMIによると、プロジェクトにおけるBRM（Benefit Realization Manage
 
 * どんな価値を提供するか
 * どう実行するか
-* どう維持するか　を定めた枠組みです。（The Boston Consulting Group）
+* どう維持するか　を定めた枠組みです。（PMI）
 
 
 
