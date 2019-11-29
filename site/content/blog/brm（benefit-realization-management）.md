@@ -1,7 +1,8 @@
 ---
+type: post
 title: BRM（Benefit Realization Management）
 date: 2019-11-27T00:52:06.177Z
-description:
+description: ' '
 ---
 # ベネフィット
 
@@ -16,6 +17,8 @@ description:
 * どんな価値を提供するか
 * どう実行するか
 * どう維持するか　を定めた枠組みです。
+
+
 
 # 概要　
 
