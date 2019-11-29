@@ -27,4 +27,4 @@ PMIによると、プロジェクトにおけるBRM（Benefit Realization Manage
 
 # 出典
 
-PMI、2016、Benefits Realization Management Framework、[<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf?v=66856a2e-dc59-4bdd-830a-c95aad7e624c](<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf?v=66856a2e-dc59-4bdd-830a-c95aad7e624c)>、（最終アクセス2019年11月29日）
+PMI、2016、Benefits Realization Management Framework、\[<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf]([https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf)](<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf?v=66856a2e-dc59-4bdd-830a-c95aad7e624c)>)、（最終アクセス2019年11月29日）
