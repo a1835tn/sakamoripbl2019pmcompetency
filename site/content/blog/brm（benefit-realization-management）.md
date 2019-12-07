@@ -1,7 +1,7 @@
 ---
 type: post
 title: BRM（Benefit Realization Management）
-date: 2019-11-27T00:52:06.177Z
+date: 2019-12-07T07:42:00.000Z
 description: ' '
 ---
 # ベネフィット
