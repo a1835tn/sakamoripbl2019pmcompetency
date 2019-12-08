@@ -47,7 +47,7 @@ canonifyURLs = true
   socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = false
-  socialShareLinkedin  = true
+  socialShareLinkedin  = false
   socialShareStumbleupon = false
   socialSharePinterest = false
   socialShareEmail     = false
@@ -87,9 +87,9 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "PM Competencey by Six Senses"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "サイドバーのサイト説明文を募集中、テキストにリンクを含めることもできます。例：<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfPq3mLmiIFHkjYpOzP97G_4bzu8TSlrHOI7lV1dF_q-MO5EA/alreadyresponded\">アンケート</a>よろしくお願いいたします。下のABOUTも書けるのでそちらも募集中です。(ABOUTページとは別みたい)"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
