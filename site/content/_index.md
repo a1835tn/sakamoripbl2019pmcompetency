@@ -1,7 +1,9 @@
-+++
-title = "総論"
-date = "2014-04-09"
-+++
+---
+type: post
+title = 総論
+date: 2019-12-01T00:00:00.000Z
+description: ' '
+---
 
 Homeに表示できるかのテスト
 
