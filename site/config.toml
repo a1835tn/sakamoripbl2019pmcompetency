@@ -47,7 +47,7 @@ canonifyURLs = true
   socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = false
-  socialShareLinkedin  = false
+  socialShareLinkedin  = true
   socialShareStumbleupon = false
   socialSharePinterest = false
   socialShareEmail     = false
@@ -123,7 +123,7 @@ canonifyURLs = true
   weight = 2
 
 [[menu.main]]
-  name = "Blog"
+  name = "Competency"
   url = "/post/"
   identifier = "fa fa-newspaper-o"
   weight = 3
@@ -166,7 +166,7 @@ canonifyURLs = true
   # wordpress        = ""
   # medium           = ""
   # Professional/Business Oriented Communities
-  # linkedin         = "example"
+  linkedin         = "example"
   # linkedin_company = "examplebusiness"
   # foursquare       = ""
   # xing             = ""
