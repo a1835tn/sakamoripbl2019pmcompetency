@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "PM Competencey by Six Senses"
 
-  paragraph = "「SixSenses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。"
+  paragraph = "「Six Senses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
@@ -142,7 +142,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "Survey"
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSfPq3mLmiIFHkjYpOzP97G_4bzu8TSlrHOI7lV1dF_q-MO5EA/viewform?usp=sf_link"
+  url = "https://forms.gle/EFZn3rEh1MLEqLYq8"
   identifier = "fa fa-pencil"
   weight = 5
 
