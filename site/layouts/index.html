@@ -2,12 +2,81 @@
     {{ $.Scratch.Set "shareNav" true }}
     {{ partial "navbar" . }}
     <!-- Main -->
-    <div id="main">
-        {{ range first 1 (where .Site.Pages "Type" "post") }}
-            {{ .Render "content-single" }}
 
-            {{ partial "share-menu" . }}
-        {{ end }}
-    </div>
+    <div id="main">
+      <article class="post">
+
+        <header>
+
+          <div class="title">
+            <h1>はじめに</h1>
+            <p></p>
+          </div>
+
+          <div class="meta">
+
+            <time class="published" datetime='2019-12-07'>
+              December 7, 2019
+            </time>
+
+            <span class="author"></span>
+             <p>
+               5 minute read
+             </p>
+
+           </div>
+
+         </header>
+
+      <section id="social-share">
+        <ul class="icons">
+          <li>
+           <a href="//twitter.com/share?url=%2fpost%2f&amp;text=Post&amp;via=example" target="_blank" class="share-btn twitter">
+             <i class="fa fa-twitter"></i>
+             <p>Twitter</p>
+           </a>
+          </li>
+
+          <li>
+            <a href="//www.facebook.com/sharer/sharer.php?u=%2fpost%2f" target="_blank" class="share-btn facebook">
+              <i class="fa fa-facebook"></i>
+              <p>Facebook</p>
+            </a>
+          </li>
+
+          <li>
+            <a href="//www.linkedin.com/shareArticle?url=%2fpost%2f&amp;title=Post" target="_blank" class="share-btn linkedin">
+              <i class="fa fa-linkedin"></i>
+              <p>LinkedIn</p>
+            </a>
+          </li>
+
+        </ul>
+      </section>
+
+      <div id="content">
+        <p>現代は変化の激しい時代、と言われています。AIやIoTやクラウドなどの技術は日々変化し、それに従って、顧客の要望もどんどん高度化、複雑化しています。
+そうした環境の中で、プロジェクトを成功させる、というのは、特に経験の浅いプロジェクトマネージャーにとっては、なかなかに難しいことです。</p>
+        <p>そこでわたしたちSixSensesは、PMIが提唱しているタレント・トライアングルをベースに、経験の浅いプロジェクトマネージャーが、プロジェクトを成功させるために身に着けておくべき振る舞いについて32個のコンピテンシーにまとめました。
+少しでも参考にしていただけましたら光栄です。</p>
+
+        <h2 id="ストラテジック&ビジネスマネジメントスキル（10）">ストラテジック&ビジネスマネジメントスキル（10）</h2>
+
+<ul>
+ <li>ベネフィット実現マネジメント</li>
+ <li>ビジネスモデリング</li>
+ <li>顧客エンゲージメント</li>
+ <li>法律及び法規制の遵守</li>
+ <li>企業運用機能群としてのプロフィット・センターとコスト・センター</li>
+ <li>企業戦略</li>
+ <li>ビジネス感覚</li>
+ <li>市場競合分析</li>
+ <li>業界固有の知識、標準体系</li>
+ <li>マーケットの認知および状況</li>
+</ul>
+      </div>
+    </article>
+   </div>
+
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}

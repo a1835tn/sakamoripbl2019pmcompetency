@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "PM Competencey"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "PM Competencey by Six Senses"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "PM Competencey"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/post/"
 
@@ -44,13 +44,13 @@ canonifyURLs = true
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
+  socialShareGoogleplus = false
   socialShareFacebook  = true
-  socialShareReddit    = true
+  socialShareReddit    = false
   socialShareLinkedin  = true
-  socialShareStumbleupon = true
-  socialSharePinterest = true
-  socialShareEmail     = true
+  socialShareStumbleupon = false
+  socialSharePinterest = false
+  socialShareEmail     = false
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
   # can load multiple files if necessary. You can also load the standard theme
@@ -87,9 +87,9 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "PM Competencey by Six Senses"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "「Six Senses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
@@ -98,11 +98,11 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "PM Competencey by Six Senses"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -117,81 +117,81 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
+  name = "About us"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
 
 [[menu.main]]
-  name = "Blog"
+  name = "Competency"
   url = "/post/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
+#[[menu.main]]
+#  name = "Itemized"
+#  url = "/itemized/"
+#  identifier = "fa fa-list"
+#  weight = 4
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 6
+  name = "Survey"
+  url = "https://forms.gle/EFZn3rEh1MLEqLYq8"
+  identifier = "fa fa-pencil"
+  weight = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
+  # github           = "jpescador/hugo-future-imperfect"
+  # gitlab           = ""
+  # stackoverflow    = "" # User Number
+  # bitbucket        = ""
+  # jsfiddle         = ""
+  # codepen          = ""
   # Visual Art Communities
-  deviantart       = ""
-  flickr           = "example"
-  behance          = ""
-  dribbble         = ""
+  # deviantart       = ""
+  # flickr           = "example"
+  # behance          = ""
+  # dribbble         = ""
   # Publishing Communities
-  wordpress        = ""
-  medium           = ""
+  # wordpress        = ""
+  # medium           = ""
   # Professional/Business Oriented Communities
   linkedin         = "example"
-  linkedin_company = "examplebusiness"
-  foursquare       = ""
-  xing             = ""
-  slideshare       = ""
+  # linkedin_company = "examplebusiness"
+  # foursquare       = ""
+  # xing             = ""
+  # slideshare       = ""
   # Social Networks
   facebook         = "example"
-  googleplus       = ""
-  reddit           = "example"
-  quora            = ""
-  youtube          = ""
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
+  # googleplus       = ""
+  # reddit           = "example"
+  # quora            = ""
+  # youtube          = ""
+  # vimeo            = ""
+  # whatsapp         = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
-  instagram        = "example"
-  tumblr           = ""
+    # wechat         = ""
+    # qq             = "" # User ID Number
+  # instagram        = "example"
+  # tumblr           = ""
   twitter          = "example"
-  skype            = ""
-  snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
-  vine             = ""
-  googlescholar    = ""
-  orcid            = ""
-  researchgate     = "example"
+  # skype            = ""
+  # snapchat         = ""
+  # pinterest        = "example"
+  # telegram         = "example"
+  # vine             = ""
+  # googlescholar    = ""
+  # orcid            = ""
+  # researchgate     = "example"
   # Email
-  email            = "example"
+  # email            = "example"
