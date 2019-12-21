@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "PM Competencey by Six Senses"
 
-  paragraph = "サイドバーのサイト説明文を募集中、テキストにリンクを含めることもできます。例：<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfPq3mLmiIFHkjYpOzP97G_4bzu8TSlrHOI7lV1dF_q-MO5EA/alreadyresponded\">アンケート</a>よろしくお願いいたします。下のABOUTも書けるのでそちらも募集中です。(ABOUTページとは別みたい)"
+  paragraph = "「SixSenses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。"
 
   about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
@@ -128,23 +128,23 @@ canonifyURLs = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
+#[[menu.main]]
+#  name = "Itemized"
+#  url = "/itemized/"
+#  identifier = "fa fa-list"
+#  weight = 4
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Survey"
   url = "https://docs.google.com/forms/d/e/1FAIpQLSfPq3mLmiIFHkjYpOzP97G_4bzu8TSlrHOI7lV1dF_q-MO5EA/viewform?usp=sf_link"
   identifier = "fa fa-pencil"
-  weight = 6
+  weight = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
