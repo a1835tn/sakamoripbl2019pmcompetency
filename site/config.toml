@@ -41,13 +41,13 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = true
+  socialShareTwitter   = false  # true
   socialShareGoogleplus = false
-  socialShareFacebook  = true
+  socialShareFacebook  = false  # true
   socialShareReddit    = false
-  socialShareLinkedin  = true
+  socialShareLinkedin  = false  # true
   socialShareStumbleupon = false
   socialSharePinterest = false
   socialShareEmail     = false
@@ -166,13 +166,13 @@ canonifyURLs = true
   # wordpress        = ""
   # medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  ##linkedin         = "example"
   # linkedin_company = "examplebusiness"
   # foursquare       = ""
   # xing             = ""
   # slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  ##facebook         = "example"
   # googleplus       = ""
   # reddit           = "example"
   # quora            = ""
@@ -184,7 +184,7 @@ canonifyURLs = true
     # qq             = "" # User ID Number
   # instagram        = "example"
   # tumblr           = ""
-  twitter          = "example"
+  ##twitter          = "example"
   # skype            = ""
   # snapchat         = ""
   # pinterest        = "example"
