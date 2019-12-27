@@ -37,9 +37,9 @@ description: ' 　'
 
 ただしBRMでは、ビジネス上の価値への意識と行動が常に求められます。例えば期待利益と実現可能な利益のギャップを定期的に確認する機会を設けたり、プロジェクトメンバーに対してプロジェクトの果たす役割と価値を説明する機会を設けるなどの取り組みも時には必要になります。
 
-・どう維持するか
+* どう維持するか
 
-プロジェクト解散後も、プロジェクトにおいて達成した価値が継続して実現されていることを確認するためのプロセスおよび評価を行います。
+プロジェクトで実現したビジネス上の価値が、継続して実現されていることを確認します。実際に確認する時は既にプロジェクトが解散しており、営業や経営などの業務部門が主体となって進められることが多いでしょう。プロジェクトマネージャーは、彼らが継続して測定できる仕組みを整えることが求められます。
 
 # やってみよう
 
@@ -47,4 +47,4 @@ description: ' 　'
 
 # 出典
 
-PMI、2016、Benefits Realization Management Framework、<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf>、（最終アクセス2019年11月29日）
+PMI、2016、Benefits Realization Management Framework、<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf>、（最終アクセス2019年12月27日）
