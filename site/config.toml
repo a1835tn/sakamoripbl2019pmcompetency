@@ -1,5 +1,6 @@
 baseurl = "/"
 languageCode = "ja"
+DefaultContentLanguage = "ja"
 title = "PM Competencey"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
