@@ -49,4 +49,6 @@ BRMの枠組みの内容は下記の通りです。
 
 # 出典
 
+一般社団法人 PMI日本支部、2018年、「タレント・トライアングル　破壊的イノベーション時代に求められるプロジェクト・マネジャーの実践スキル」、評言社
+
 PMI、2016、Benefits Realization Management Framework、<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf>、（最終アクセス2019年12月27日）
