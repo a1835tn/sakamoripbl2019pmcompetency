@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.sakamori.net"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 title = "PM Competencey"
