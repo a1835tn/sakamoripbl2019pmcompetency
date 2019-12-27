@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "PM Competencey"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
