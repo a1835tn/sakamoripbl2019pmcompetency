@@ -1,8 +1,10 @@
 ---
+categories: ["リーダーシップ"]
 type: post
 title: EQ（Emotional Intelligence Quotient；心の知能指数）
 date: 2019-12-28T05:21:00.000Z
-description: ' '
+description: "プロジェクトマネジメントにおけるタレント・トライアングル「リーダーシップ」より、「EQ（Emotional Intelligence Quotient；心の知能指数）」への理解を深めプロジェクト・マネジャーに必要とされるコンピテンシーを身に着けよう。"
+tags: ["EQ（Emotional Intelligence Quotient；心の知能指数）"]
 ---
 # ベネフィット
 
