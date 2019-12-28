@@ -1,15 +1,17 @@
 ---
+categories: ["戦略的およびビジネスのマネジメント"]
 type: post
 title: BRM（Benefit Realization Management）
 date: 2019-12-28T02:04:00.000Z
-description: ' 　'
+description: "プロジェクトマネジメントにおけるタレント・トライアングル「戦略的およびビジネスのマネジメント」より、「BRM（Benefit Realization Management）」への理解を深めプロジェクト・マネジャーに必要とされるコンピテンシーを身に着けよう。"
+tags: ["BRM（Benefit Realization Management）"]
 ---
-![BRM（Benefit Realization Management）](/img/BRM（Benefit Realization Management）.png "BRM（Benefit Realization Management）")
-
 # ベネフィット
 
 このコンピテンシーを習得することにより、プロジェクト活動の成果が、顧客のビジネスに良い影響を及ぼします。
 継続して実施することによって、顧客と永続的な信頼関係を築くことができます。
+
+![BRM（Benefit Realization Management）](/img/BRM（Benefit Realization Management）.png "BRM（Benefit Realization Management）")
 
 # 定義
 
