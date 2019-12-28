@@ -1,9 +1,11 @@
 ---
 type: post
 title: BRM（Benefit Realization Management）
-date: 2019-12-07T07:42:00.000Z
+date: 2019-12-28T02:04:00.000Z
 description: ' 　'
 ---
+![BRM（Benefit Realization Management）](/img/BRM（Benefit Realization Management）.png "BRM（Benefit Realization Management）")
+
 # ベネフィット
 
 このコンピテンシーを習得することにより、プロジェクト活動の成果が、顧客のビジネスに良い影響を及ぼします。
@@ -52,3 +54,11 @@ BRMの枠組みの内容は下記の通りです。
 一般社団法人 PMI日本支部、2018年、「タレント・トライアングル　破壊的イノベーション時代に求められるプロジェクト・マネジャーの実践スキル」、評言社
 
 PMI、2016、Benefits Realization Management Framework、<https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/benefits-realization-management-framework.pdf>、（最終アクセス2019年12月27日）
+
+- - -
+
+# アンケートご協力のお願い
+
+以下のURLよりアンケートのご協力をお願いいたします。
+
+https://forms.gle/EFZn3rEh1MLEqLYq8
