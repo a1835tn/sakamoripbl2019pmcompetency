@@ -1,12 +1,14 @@
 ---
 type: post
 title: EQ（Emotional Intelligence Quotient；心の知能指数）
-date: 2019-12-28T05:15:05.781Z
+date: 2019-12-28T05:21:00.000Z
 description: ' '
 ---
 # ベネフィット
 
 このコンピテンシーを高めると、困難な問題に対しても、ポジティブに自信を持って対処できるようになります。またプロジェクトのステークホルダーはあなたを信頼し、様々な場面において快く、積極的に協力してくれるようになります。
+
+![EQ（Emotional Intelligence Quotient；心の知能指数）](/img/EQ（Emotional Intelligence Quotient；心の知能指数）.png "EQ（Emotional Intelligence Quotient；心の知能指数）")
 
 # 定義
 
@@ -60,3 +62,11 @@ description: ' '
 高山直、2016、「ＥＱ「感じる力」の磨き方: 自分を変え、人生の質を高める」、東洋経済新報社
 
 ターシャ・ユーリック（DIAMOND,Inc.）、2018、リーダーに不可欠な「自己認識力」を高める3つの視点、<https://www.dhbr.net/articles/-/5215>、（最終アクセス2019年12月27日）
+
+- - -
+
+# アンケートご協力のお願い
+
+以下のURLよりアンケートのご協力をお願いいたします。
+
+https://forms.gle/EFZn3rEh1MLEqLYq8
