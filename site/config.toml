@@ -1,5 +1,6 @@
-baseurl = "/"
-languageCode = "en-us"
+baseurl = "https://www.sakamori.net"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
 title = "PM Competencey"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
@@ -41,13 +42,13 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = true
+  socialShareTwitter   = false  # true
   socialShareGoogleplus = false
-  socialShareFacebook  = true
+  socialShareFacebook  = false  # true
   socialShareReddit    = false
-  socialShareLinkedin  = true
+  socialShareLinkedin  = false  # true
   socialShareStumbleupon = false
   socialSharePinterest = false
   socialShareEmail     = false
@@ -62,12 +63,12 @@ canonifyURLs = true
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = false # set to true to disable Highlight
-  highlightjsVersion = "9.11.0"
-  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
   highlightjsLang = ["r", "yaml", "css"]
   highlightjsTheme = "github"
-  MathJaxCDN = "//cdn.bootcss.com"
-  MathJaxVersion = "2.7.1"
+  MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+  MathJaxVersion = "2.7.5"
 
 # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
 # due to its ease of use. Feel free to check out both and decide what you would
@@ -89,9 +90,9 @@ canonifyURLs = true
 [params.intro]
   header    = "PM Competencey by Six Senses"
 
-  paragraph = "「Six Senses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。"
+  paragraph = "「Six Senses」は、産業技術大学院大学情報アーキテクチャ専攻 酒森研究室において2019年度に実施したプロジェクトの名称です。<br><b>アンケートにご協力ください！</b><br>アンケートサイトは<b><a href=\"https://forms.gle/EFZn3rEh1MLEqLYq8\">こちら</a></b>"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "免責事項：<br>当サイトのコンテンツや情報において、必ずしも正確性を保証するものではありません。また、当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねます。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -166,13 +167,13 @@ canonifyURLs = true
   # wordpress        = ""
   # medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  ##linkedin         = "example"
   # linkedin_company = "examplebusiness"
   # foursquare       = ""
   # xing             = ""
   # slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  ##facebook         = "example"
   # googleplus       = ""
   # reddit           = "example"
   # quora            = ""
@@ -184,7 +185,7 @@ canonifyURLs = true
     # qq             = "" # User ID Number
   # instagram        = "example"
   # tumblr           = ""
-  twitter          = "example"
+  ##twitter          = "example"
   # skype            = ""
   # snapchat         = ""
   # pinterest        = "example"

@@ -1,29 +1,31 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-+++
+---
+type: post
+title: About us
+date: 2019-12-01T09:00:00.000Z
+description: 
+---
 
-Hugo is a static site engine written in Go.
+私たち産業技術大学院大学（AIIT）酒森研究室では、メンバーが「プロジェクトマネジメント」の実践コンピテンシーを身に着けることを目標に、プロジェクトマネジメントに関する研究と成果発表を毎年行っています。
 
+このサイトは2019年度のテーマである「プロジェクトマネジャーが持つべきコンピテンシー（行動特性）」に関する調査結果の公表と、フィードバックを得ることを目的として立ち上げました。
 
-It makes use of a variety of open source projects including:
+主な対象者は最近PMになった方、興味はあるけどまだ経験のない方など「経験の浅い」PMや、PMの候補者を想定しています。
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+このサイトが多くのPMにとって、PMコンピテンシーへの興味・関心を持つきっかけとなり、スキル向上の一助になれば幸いです。
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+# 2019年度　酒森研究室について
 
-## Setup
+* メンバー：6名
 
-Some fun facts about [Hugo](http://gohugo.io/):
+　　　それぞれITベンダー、メーカー、大学（学生）などに所属しており、SE、PM、企画などを担当
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+* 期間　　：2019年4月～2020年2月（予定）
+* 活動紹介：
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+　　　水曜日・土曜日の対面会議をベースに、出席人数や天候によってはオンラインミーティングも実施\
+　　　全員PM、タスクボード、ビジネスチャットツールの活用などアジャイル的な理念や進め方を意識して実践
 
-Thanks for reading!
+* 研究室の様子：
+
+![PLB Meeting Image](/img/sakamoripbl2019_meeting.png "酒森PBL 2019 の風景")
+
